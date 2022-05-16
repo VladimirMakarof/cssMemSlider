@@ -138,6 +138,7 @@ input[name="r"] {
 #r5:checked ~ .navigation label:nth-child(5) div {
   background-color: black;
 }
+
 @media (max-width: 1440px) {
   .container {
     width: 80%;
@@ -207,4 +208,3 @@ input[name="r"] {
     padding: 1rem 0;
   }
 }
-
